@@ -1,0 +1,160 @@
+.body__top-nav {
+  display: flex;
+  margin-left: 90px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+.body__top-nav span {
+  margin-top: 30px;
+  font-weight: 700;
+}
+.body__top-nav-search {
+  margin-left: 225px;
+  margin-top: 10px;
+  border: 1px grey solid;
+  padding: 20px;
+  width: 665px;
+  border-radius: 7px;
+  background-color: whitesmoke;
+}
+
+.body__top-nav-search-word {
+  margin-top: 10px;
+  font-weight: 400;
+}
+.body__top-nav-search__img {
+  margin-left: 440px;
+  width: 30px;
+}
+
+.body__top-nav-filter {
+  margin-left: 40px;
+  margin-top: 10px;
+  border: 1px grey solid;
+  padding: 25px;
+  width: 235px;
+  border-radius: 7px;
+  background-color: whitesmoke;
+}
+
+.body__top-nav-search__filter_img {
+  margin-left: 50px;
+}
+.body__nav-bar {
+  width: 350px;
+  height: 80rem;
+  margin-left: 0;
+  border: 1px lightgrey solid;
+  border-radius: 5px;
+  background-color: whitesmoke;
+  align-items: center;
+  justify-items: center;
+}
+
+.body__nav-bar-item {
+  height: 50px;
+  margin-top: 15px;
+  margin-left: 40px;
+  margin-right: 15px;
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+  align-items: center;
+  justify-items: center;
+}
+
+.main__body {
+  margin-left: 10px;
+  display: flex;
+  border: none;
+}
+
+.main__body-item {
+  margin-left: 100px;
+  width: 1150px;
+  height: 1300px;
+  border: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.main__body-item__object {
+  margin: 10px;
+  padding: 0;
+  border: 1px solid grey;
+  border-radius: 5px;
+  width: 330px;
+  height: 400px;
+}
+
+.main__body-item__object__img {
+  height: 300px;
+  width: 330px;
+  border-radius: 5px;
+}
+
+.main__body-item__object__price {
+  display: flex;
+  margin-top: 2px;
+}
+
+.price {
+  margin-left: 160px;
+  float: left;
+  font-weight: 600;
+}
+
+.name-of-item {
+  font-weight: 500;
+  margin-left: 10px;
+}
+
+.main__body-item__object__cart {
+  display: flex;
+}
+
+.add-to-cart {
+  background-color: red;
+  color: white;
+  display: flex;
+  margin-left: 10px;
+  margin-top: 8px;
+  height: 40px;
+  width: 170px;
+  border-radius: 5px;
+  text-align: center;
+  /* vertical-align: middle; */
+  padding-top: 20px;
+}
+
+.add-to-cart__word {
+  margin-left: 7px;
+  font-weight: 500;
+}
+
+.add-to-cart__icon {
+  margin-left: 35px;
+  width: 30px;
+  margin-bottom: 10px;
+}
+
+.like {
+  width: 40px;
+  margin-left: 75px;
+  margin-top: 10px;
+}
+
+.scroll {
+  display: flex;
+  margin-left: 47rem;
+  margin-top: 10px;
+}
+
+.scroll__page {
+  width: 40px;
+  height: 35px;
+  margin: 10px;
+  background-color: white;
+  text-align: center;
+  margin-top: 20px;
+}

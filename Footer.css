@@ -1,0 +1,50 @@
+.footer__info {
+  height: 130px;
+  border: 1px lightgrey solid;
+  display: flex;
+  background-color: white;
+  margin-top: 1.5rem;
+}
+
+.footer__logo__image {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 50px;
+}
+
+.footer__note {
+  margin-top: 50px;
+  margin-right: 30px;
+  margin-left: 40px;
+}
+
+.footer__search {
+  margin-left: 15rem;
+  margin-top: 50px;
+}
+
+.footer__address {
+  margin-left: 30rem;
+  margin-top: 50px;
+}
+
+.footer__search__note {
+  display: block;
+}
+.footer__search__section {
+  display: flex;
+}
+
+.footer__search__bar {
+  border: 1px solid lightgrey;
+  width: 210px;
+  height: 30px;
+  padding-left: 10px;
+}
+
+.footer__search__button {
+  border: 1px solid lightgrey;
+  width: 40px;
+  margin-left: 5px;
+  background-color: rgb(12, 12, 124);
+}
